@@ -72,6 +72,10 @@ Potential extensions to this analysis:
 - Predictive modeling for future sales forecasting
 - Geographic heat maps for sales distribution
 
+## Data Source
+The dataset is available from the following source:
+https://raw.githubusercontent.com/rajeevratan84/datascienceforbusiness/master/ecommerce_data.zip
+
 ## How to Run
 
 1. Clone this repository
@@ -81,7 +85,3 @@ Potential extensions to this analysis:
 ```python
 # Install required packages
 pip install pandas numpy matplotlib seaborn
-
-Data Source
-The dataset is available from the following source:
-https://raw.githubusercontent.com/rajeevratan84/datascienceforbusiness/master/ecommerce_data.zip
